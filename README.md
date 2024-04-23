@@ -28,6 +28,6 @@ The project repository contains the following key results and findings:
 
 3. **Model Building**: Various machine learning algorithms were implemented, including linear regression, decision trees, and support vector machines (SVM), to predict health insurance charges. Each model was trained and evaluated using appropriate techniques, such as cross-validation and hyperparameter tuning.
 
-4. **Evaluation**: The performance of each model was evaluated using metrics such as mean squared error (MSE), R-squared score, and mean absolute error (MAE). This allowed for comparison of the effectiveness of different algorithms in predicting health insurance charges. And we choose the Ensemble boosting too, which is Ridge Regressor
+4. **Evaluation**: The performance of each model was evaluated using metrics such as mean squared error (MSE), R-squared score, and mean absolute error (MAE). This allowed for comparison of the effectiveness of different algorithms in predicting health insurance charges. We choose the Ensemble boosting too, which is Ridge Regressor
 
 5. **Conclusion**: Based on the evaluation results, insights were drawn regarding the most effective algorithms for predicting health insurance charges. Suggestions for further improvements or areas of exploration were also discussed.
